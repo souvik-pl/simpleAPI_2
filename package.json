@@ -1,0 +1,19 @@
+{
+  "name": "simpleapi_2",
+  "version": "1.0.0",
+  "description": "A simple API using express and http module in node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvik-pl/simpleAPI_2.git"
+  },
+  "author": "Souvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souvik-pl/simpleAPI_2/issues"
+  },
+  "homepage": "https://github.com/souvik-pl/simpleAPI_2#readme"
+}
